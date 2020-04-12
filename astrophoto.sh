@@ -20,15 +20,3 @@ gphoto2 --set-config imageformat=$imageformat
 
 echo "Taking $frames photos over $interval seconds"
 gphoto2 --capture-image --frames $frames --interval $interval
-
-
-
-
-
-
-
-
-
-
-
-
